@@ -1,5 +1,7 @@
-# share-Me
+# share-Me 
 This is a full project build using React, Tailwind & Sanity 
+
+You can access the App here : https://share-apps.netlify.app/ 
 
 STEP 1: 
 Clone the repo.
